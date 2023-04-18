@@ -1,5 +1,5 @@
 
-#这个程序用来做一次方程的线形拟合以及两组数据间的相关性判断
+#这个程序用来做实验数据的一次方程线形拟合以及数据间的相关性判断
 import matplotlib.pyplot as plt
 import numpy as np
 from scipy.stats import pearsonr
